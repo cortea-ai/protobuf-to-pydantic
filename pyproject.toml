@@ -5,7 +5,7 @@ description = "Generate the `pydantic.BaseModel` class (and the corresponding so
 authors = []
 license = "Apache Software License"
 readme = "./README.md"
-repository = "https://github.com/cortea-ai/protobuf_to_pydantic"
+repository = "https://github.com/cortea-ai/protobuf-to-pydantic"
 packages = [
     { include = "protobuf_to_pydantic" },
 ]
